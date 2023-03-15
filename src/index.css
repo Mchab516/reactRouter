@@ -1,0 +1,22 @@
+.card:hover{
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.255)!important;
+}
+.container-fluid.row{
+  padding-top: 6rem;
+}
+.overflow{
+  overflow: hidden;
+}
+.card-img-top{
+  transform: scale(1);
+  transition: transform 0.2s ease;
+}
+
+.card-img-top:hover{
+  transform: scale(1.1);
+}
+.form-control{
+  max-width: 3rem;
+}
+
+
